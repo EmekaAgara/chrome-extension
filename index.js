@@ -25,9 +25,3 @@ function renderLeads(){
 
     ulEl.innerHTML = listItems
 }
-
-const recipient = "James"
-
-const email = `Hey" ${recipient}! How is it going? Cheers Emeka`
-
-console.log(email)
